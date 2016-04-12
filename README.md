@@ -1,3 +1,4 @@
+![alt tag](http://cice.es/wp-content/uploads/2013/11/microsoft-visual-studio-online.jpg)
 # POO
 
 ## Clase 1 - 05/04/2016
