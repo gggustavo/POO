@@ -40,6 +40,21 @@
   
   Agregación, composición, generalización, herencia - http://users.dcc.uchile.cl/~psalinas/uml/modelo.html
   
+## Clase 4 - 26/04/2016
+
+- Fundamentos de la POO
+
+  Herencia - https://msdn.microsoft.com/es-ar/library/ms173149.aspx
+
+  Polimorfismo - https://msdn.microsoft.com/es-AR/library/ms173152.aspx
+  
+  Sobrecarga - https://msdn.microsoft.com/es-AR/library/ms229029(v=vs.100).aspx
+
+- Diagramas de clases
+  
+
+
+  
   
   
   
