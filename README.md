@@ -52,7 +52,9 @@
 
 - Diagramas de clases
   
+## Clase 5 - 03/05/2016
 
+- Visual Studio - Creacion de clases, propiedades, métodos. Abstracciones, Herencia, Sobrecargas, Colecciones.
 
   
   
