@@ -58,6 +58,7 @@
             this.rbrecargar = new System.Windows.Forms.RadioButton();
             this.ingresoValor = new System.Windows.Forms.TextBox();
             this.groupBox2 = new System.Windows.Forms.GroupBox();
+            this.eliminar = new System.Windows.Forms.Button();
             this.groupBox1.SuspendLayout();
             ((System.ComponentModel.ISupportInitialize)(this.dataGridView1)).BeginInit();
             ((System.ComponentModel.ISupportInitialize)(this.autoBindingSource)).BeginInit();
@@ -67,7 +68,7 @@
             // 
             this.agregar.Location = new System.Drawing.Point(12, 232);
             this.agregar.Name = "agregar";
-            this.agregar.Size = new System.Drawing.Size(229, 29);
+            this.agregar.Size = new System.Drawing.Size(107, 29);
             this.agregar.TabIndex = 0;
             this.agregar.Text = "Agregar";
             this.agregar.UseVisualStyleBackColor = true;
@@ -310,11 +311,22 @@
             this.groupBox2.TabIndex = 19;
             this.groupBox2.TabStop = false;
             // 
+            // eliminar
+            // 
+            this.eliminar.Location = new System.Drawing.Point(126, 233);
+            this.eliminar.Name = "eliminar";
+            this.eliminar.Size = new System.Drawing.Size(115, 29);
+            this.eliminar.TabIndex = 20;
+            this.eliminar.Text = "Eliminar";
+            this.eliminar.UseVisualStyleBackColor = true;
+            this.eliminar.Click += new System.EventHandler(this.eliminar_Click);
+            // 
             // Main
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.ClientSize = new System.Drawing.Size(1115, 363);
+            this.Controls.Add(this.eliminar);
             this.Controls.Add(this.groupBox2);
             this.Controls.Add(this.ingresoValor);
             this.Controls.Add(this.rbrecargar);
@@ -366,6 +378,7 @@
         private System.Windows.Forms.DataGridViewTextBoxColumn kilomentrosConCapacidadActualDataGridViewTextBoxColumn;
         private System.Windows.Forms.DataGridViewTextBoxColumn kilomentroTanqueLlenoDataGridViewTextBoxColumn;
         private System.Windows.Forms.GroupBox groupBox2;
+        private System.Windows.Forms.Button eliminar;
     }
 }
 

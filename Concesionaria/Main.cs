@@ -71,6 +71,7 @@ namespace Concesionaria
             };
 
             _concesionaria.AgregarAuto(auto);
+            MessageBox.Show(@"Auto Agregado correctamente");
 
             CargarAutos();
 
@@ -122,6 +123,19 @@ namespace Concesionaria
                 CantCombActual = 50
             };
             _concesionaria.AgregarAuto(auto);
+
+           
+        }
+
+        private void eliminar_Click(object sender, EventArgs e)
+        {
+            if (autoBindingSource.Current == null) return;
+
+            var auto = (Auto)autoBindingSource.Current;
+            _concesionaria.ElimiarAuto(auto);
+
+            MessageBox.Show(@"Auto Eliminado correctamente");
+            CargarAutos();
         }
     }
 }
