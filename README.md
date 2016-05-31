@@ -56,8 +56,21 @@
 
 - Visual Studio - Creacion de clases, propiedades, métodos. Abstracciones, Herencia, Sobrecargas, Colecciones.
 
-  
-  
+## Clase 6 - 10/05/2016
+
+- Visual Studio - Práctica
+
+## Clase 7 - 17/05/2016
+
+- Visual Studio - Práctica
+
+## Clase 8 - 24/05/2016
+
+- Parcial 1
+
+## Clase 9 - 31/05/2016
+
+- Visual Studio - Práctica
   
   
 
