@@ -72,5 +72,11 @@
 
 - Visual Studio - Práctica
   
-  
+## Clase 10 - 07/06/2016
+
+- Visual Studio - Práctica
+
+## Clase 11 - 14/06/2016
+
+- Visual Studio - Práctica
 
