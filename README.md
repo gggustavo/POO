@@ -80,3 +80,7 @@
 
 - Visual Studio - Práctica
 
+## Clase 12 - 21/06/2016
+
+- Visual Studio - Práctica
+
