@@ -84,3 +84,6 @@
 
 - Visual Studio - Práctica
 
+## Clase 13 - 28/06/2016
+
+- Parcial 2
