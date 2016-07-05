@@ -87,3 +87,7 @@
 ## Clase 13 - 28/06/2016
 
 - Parcial 2
+
+## Clase 14 - 05/07/2016
+
+- Revision Parcial 2
