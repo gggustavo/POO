@@ -91,3 +91,7 @@
 ## Clase 14 - 05/07/2016
 
 - Revision Parcial 2
+
+## Clase 15 - 12/07/2016
+
+- Recuperatorios
