@@ -95,3 +95,7 @@
 ## Clase 15 - 12/07/2016
 
 - Recuperatorios
+
+## Clase 16 - 19/07/2016
+
+- Clase Final POO
