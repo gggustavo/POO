@@ -12,12 +12,18 @@ namespace ToolKit
         {
             var person = new Person()
             {
-              Name = "POO",
-              lastName = "UAI",
-              Age = 30
+                Name = "POO",
+                LastName = "UAI",
+                Age = 30,
+                State = new State { 
+                    StateId = "1",
+                    StateName = "Santa Fe"
+                }
             };
 
-            Console.WriteLine(string.Format("Name:{0}\nAge:{1}", person.Name, person.Age));
+            Console.WriteLine(string.Format("Name:{0}\nAge:{1}\n", person.Name, person.Age));
+            Console.WriteLine(string.Format("State:{0}\n", person.State.StateName));
+
             Console.ReadKey();
         }
     }

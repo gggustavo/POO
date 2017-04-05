@@ -9,7 +9,9 @@ namespace ToolKit
     public class Person
     {
         public string Name { get; set; }
-        public string lastName { get; set; }
+        public string LastName { get; set; }
         public int Age { get; set; }
+        public State State { get; set; }
+
     }
 }
