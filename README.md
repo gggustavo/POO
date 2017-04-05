@@ -1,19 +1,22 @@
 ![alt tag](http://cice.es/wp-content/uploads/2013/11/microsoft-visual-studio-online.jpg)
 # POO
 
-## Clase 1 - 05/04/2016
+## Clase 1
 - Introducción a la materia.
 - Ejercicio Final Programación.
 - Grupo Facebook POO - LUG 2016.
+- Evaluaciones: 2 Parciales. 1 Trabajo Práctico. 1 Nota Concepto.
+- Asistencia 70% -> Regular. Asistencia <=50% Libre.
+- Regularidad: Nota >= 4 Regular, Nota <=4 Globalizador, Nota >= 7 Promocion. 
 
-## Clase 2 - 12/04/2016
+## Clase 2 
 - Fundamentos de la POO.
 
   https://msdn.microsoft.com/es-ar/library/bb972232.aspx.
   https://es.wikibooks.org/wiki/Programaci%C3%B3n_Orientada_a_Objetos/Conceptos_Fundamentales.
 - Evaluacion Diagnostico.
 
-## Clase 3 - 19/04/2016
+## Clase 3
 - Fundamentos de la POO
   
   Campos - https://msdn.microsoft.com/es-es/library/ms173118.aspx
@@ -40,7 +43,7 @@
   
   Agregación, composición, generalización, herencia - http://users.dcc.uchile.cl/~psalinas/uml/modelo.html
   
-## Clase 4 - 26/04/2016
+## Clase 4
 
 - Fundamentos de la POO
 
@@ -52,50 +55,50 @@
 
 - Diagramas de clases
   
-## Clase 5 - 03/05/2016
+## Clase 5
 
 - Visual Studio - Creacion de clases, propiedades, métodos. Abstracciones, Herencia, Sobrecargas, Colecciones.
 
-## Clase 6 - 10/05/2016
+## Clase 6
 
 - Visual Studio - Práctica
 
-## Clase 7 - 17/05/2016
+## Clase 7
 
 - Visual Studio - Práctica
 
-## Clase 8 - 24/05/2016
+## Clase 8
 
 - Parcial 1
 
-## Clase 9 - 31/05/2016
+## Clase 9
 
 - Visual Studio - Práctica
   
-## Clase 10 - 07/06/2016
+## Clase 10
 
 - Visual Studio - Práctica
 
-## Clase 11 - 14/06/2016
+## Clase 11
 
 - Visual Studio - Práctica
 
-## Clase 12 - 21/06/2016
+## Clase 12
 
 - Visual Studio - Práctica
 
-## Clase 13 - 28/06/2016
+## Clase 13
 
 - Parcial 2
 
-## Clase 14 - 05/07/2016
+## Clase 14 
 
 - Revision Parcial 2
 
-## Clase 15 - 12/07/2016
+## Clase 15
 
 - Recuperatorios
 
-## Clase 16 - 19/07/2016
+## Clase 16
 
 - Clase Final POO
