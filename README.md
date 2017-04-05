@@ -5,7 +5,9 @@
 - Introducción a la materia.
 - Ejercicio Final Programación.
 - Grupo Facebook POO - LUG 2016.
-- Notas: 2 Parciales. 1 Trabajo Práctico. 1 Nota Concepto. Asistencia 70% -> Regular. Asistencia <=50% Libre. Cpndicion >= 4 Regular, <=4 Globalizador, >= 7 Promocion. 
+- Evaluaciones: 2 Parciales. 1 Trabajo Práctico. 1 Nota Concepto.
+- Asistencia 70% -> Regular. Asistencia <=50% Libre.
+- Regularidad: Nota >= 4 Regular, Nota <=4 Globalizador, Nota >= 7 Promocion. 
 
 ## Clase 2 
 - Fundamentos de la POO.
