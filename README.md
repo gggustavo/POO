@@ -10,13 +10,14 @@
 - Regularidad: Nota >= 4 Regular, Nota <=4 Globalizador, Nota >= 7 Promocion. 
 
 ## Clase 2 
+- Evaluacion Diagnostico.
+
 - Fundamentos de la POO.
 
 
   https://msdn.microsoft.com/es-ar/library/bb972232.aspx.
   https://es.wikibooks.org/wiki/Programaci%C3%B3n_Orientada_a_Objetos/Conceptos_Fundamentales.
   
-- Evaluacion Diagnostico.
 - IDE Visual Studio
 
   https://msdn.microsoft.com/es-es/library/dn762121.aspx
