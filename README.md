@@ -11,14 +11,22 @@
 
 ## Clase 2 
 - Fundamentos de la POO.
+
+
   https://msdn.microsoft.com/es-ar/library/bb972232.aspx.
   https://es.wikibooks.org/wiki/Programaci%C3%B3n_Orientada_a_Objetos/Conceptos_Fundamentales.
+  
 - Evaluacion Diagnostico.
 - IDE Visual Studio
+
   https://msdn.microsoft.com/es-es/library/dn762121.aspx
+  
 - Introducción a Visual C#
+
   https://msdn.microsoft.com/es-es/library/a72418yk.aspx
+  
 - Introducción al lenguaje C# y .NET Framework
+
   https://msdn.microsoft.com/es-es/library/z1zx9t92.aspx   
 
 ## Clase 3
