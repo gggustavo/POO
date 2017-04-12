@@ -22,9 +22,9 @@ namespace Final
 
         private void Aceptar_Click(object sender, EventArgs e)
         {
-            if (usuario.Text == valueUser && password.Text == valuePassword)
+            if (usuario.Text.ToUpper() == valueUser && password.Text.ToUpper() == valuePassword)
             {
-                var form = new Software();
+                var form = new Products();
                 this.Hide();
                 form.ShowDialog();
                 this.Show();
