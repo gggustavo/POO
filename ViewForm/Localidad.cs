@@ -3,29 +3,35 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 
-namespace ViewForm
+namespace Inmobiliaria
 {
     public class Localidad
     {
+        private int _cp;
+
         public int CP
         {
             get
             {
-                throw new System.NotImplementedException();
+                return _cp;
             }
             set
             {
+                _cp = value;
             }
         }
+
+        private string _nombre;
 
         public string Nombre
         {
             get
             {
-                throw new System.NotImplementedException();
+                return _nombre;
             }
             set
             {
+                _nombre = value;
             }
         }
     }
