@@ -18,7 +18,10 @@ namespace Repuesto
         {
             InitializeComponent();
             _casaRepuesto = new CasaRepuestos();
+            Data.LoadData(_casaRepuesto);
         }
+
+        
 
         private void articulosToolStripMenuItem_Click(object sender, EventArgs e)
         {

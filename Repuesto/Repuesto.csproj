@@ -52,6 +52,7 @@
       <DependentUpon>ArticulosForm.cs</DependentUpon>
     </Compile>
     <Compile Include="CasaRepuestos.cs" />
+    <Compile Include="Data.cs" />
     <Compile Include="Main.cs">
       <SubType>Form</SubType>
     </Compile>
