@@ -66,6 +66,8 @@
   Polimorfismo - https://msdn.microsoft.com/es-AR/library/ms173152.aspx
   
   Sobrecarga - https://msdn.microsoft.com/es-AR/library/ms229029(v=vs.100).aspx
+  
+  Abstracto y sellado - https://msdn.microsoft.com/es-es/library/ms173150.aspx
 
 - Diagramas de clases
   
